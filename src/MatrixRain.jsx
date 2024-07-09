@@ -28,7 +28,7 @@ const MatrixRain = () => {
 
     const speedBase = 1.0;
     const speedDeviation = 0.4;
-    const streaks = 1.8;
+    const streaks = 1.9;
 
     const brightRatio = 0.1;
 
